@@ -1,0 +1,60 @@
+::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 5px 10px 10px 5px;
+  background-color: #999;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #333;
+  border-radius: 5px 10px 10px 5px;
+}
+.ReadMore {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  background-image: url(../imgs/done.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  overflow: auto;
+}
+.accordion{
+  display: inline-block;
+  text-align: left;
+  margin: 1%;
+  width: 50%;
+}
+.accordion:hover .accordion-content{
+  max-height: 495px;
+  overflow: auto;
+}
+.accordion-content {
+  transition: max-height 1s;
+  background: rgba(255,255,255,0.2);
+  box-shadow: rgba(0,0,0,0.2) 0px 60px 40px -7px;
+  backdrop-filter: blur (5px);
+  border-radius: 15px;
+  overflow: hidden;
+  max-height: 0;
+}
+.accordion-inner {
+  padding: 0 15px;
+}
+.accordion-toggle {
+  transition: background .1s linear;
+  background: rgba(255,255,255,0.2);
+  border-radius: 16px;
+  box-shadow: rgba(0,0,0,0.2) 0px 60px 40px -7px;
+  backdrop-filter: blur (5px);
+  border: 1px solid rgba(255,255,255,0.3);
+  color: #333;
+  display: block;
+  font-size: 17px;
+  text-decoration: none;
+  margin: 24% 0 10px;
+  padding: 10px;
+  text-align: center;
+}
+.accordion-toggle:hover {
+  background: #34495e;
+  color: white;
+}
