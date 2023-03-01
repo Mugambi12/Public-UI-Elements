@@ -58,21 +58,6 @@ Windows:
 git clone https://github.com/Mugambi12/Public-Project-Materials.git
 ```
 
+#### License
 
-
-# <div>
-  <h2 align="center">Contact and License</h2>
-
-  #### Contact
-
-  To contact me, you can reach me out at,<br/><br/>
-  
-  <div align="center">
-    [Twitter](https://www.twitter.com/mugambimungiria). &nbsp; &nbsp; &nbsp;
-    [LinkedIn](https://www.linkedin.com/in/silasmugambi)
-  </div>
-
-  #### License
-
-  [MIT](https://choosealicense.com/licenses/mit/)
-</div>
+  <p>This project is licensed under the <a href="https://choosealicense.com/licenses/mit/">MIT</a>.</p>
