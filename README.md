@@ -1,4 +1,3 @@
-# Public-Project-Materials
 <h1 align="center">Public Project Materials</h1> <br/>
 <h2 align="center">Connect with me</h2>
 
@@ -25,19 +24,23 @@
 
 <br />
 
-### Demo Screeshots
+  <h2 align="center">Demo Screeshots</h2>
 
-![Admin Dashboard Desktop Demo](./README-Images/AdminDashboard.png "Desktop Demo")
-![Login Page Desktop Demo](./README-Images/LoginPage.png "Desktop Demo")
-![ReadMore Desktop Demo](./README-Images/ReadMore.png "Desktop Demo")
+<div display="inline-block"overflow="auto">
+  ![Admin Dashboard Desktop Demo](./README-Images/AdminDashboard.png "Desktop Demo")
+  ![Login Page Desktop Demo](./README-Images/LoginPage.png "Desktop Demo")
+  ![ReadMore Desktop Demo](./README-Images/ReadMore.png "Desktop Demo")
+</div>
 
-### Prerequisites
+
+<h2 align="center">Prerequisites</h2>
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
+
+<h2 align="center">Run Locally</h2>
 
 To run **these materials** locally, run this command on your git bash:
 
@@ -53,12 +56,16 @@ Windows:
 git clone https://github.com/Mugambi12/Public-Project-Materials.git
 ```
 
-### Contact
-
-To contact me, you can reach me out at,<br />
- [Twitter](https://www.twitter.com/mugambimungiria). &nbsp; &nbsp; &nbsp;
- [LinkedIn](https://www.linkedin.com/in/silasmugambi)
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+# <div>
+  <h2 align="center">Contact and License</h2>
+  
+  #### Contact
+  
+  To contact me, you can reach me out at,<br />
+   [Twitter](https://www.twitter.com/mugambimungiria). &nbsp; &nbsp; &nbsp;
+   [LinkedIn](https://www.linkedin.com/in/silasmugambi)
+  
+  #### License
+  
+  [MIT](https://choosealicense.com/licenses/mit/)
+</div>
