@@ -26,11 +26,9 @@
 
   <h2 align="center">Demo Screeshots</h2>
 
-<div display="inline-block"overflow="auto">
   ![Admin Dashboard Desktop Demo](./README-Images/AdminDashboard.png "Desktop Demo")
   ![Login Page Desktop Demo](./README-Images/LoginPage.png "Desktop Demo")
   ![ReadMore Desktop Demo](./README-Images/ReadMore.png "Desktop Demo")
-</div>
 
 
 <h2 align="center">Prerequisites</h2>
