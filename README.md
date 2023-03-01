@@ -11,11 +11,23 @@
   [![GitHub stars](https://img.shields.io/github/stars/Mugambi12/Public-Project-Materials?style=social)](https://github.com/Mugambi12/Public-Project-Materials) &nbsp;
   ![GitHub forks](https://img.shields.io/github/forks/Mugambi12/Public-Project-Materials?style=social)
 
-
+  <br/>
 
   <h2 align="center">Public Project Materials</h2>
 
   <p text-align="justify">These projects are freely available for use in building website. Responsive for all devices, build using HTML, CSS, and JavaScript.</p>
+
+  <h3 align="left">Topics</h3>
+    
+  <ul align="left">
+    <li>0x00-hello_world</li>
+    <li>0x01-variables_if_else_while</li>
+    <li>0x02-functions_nested_loops</li>
+    <li>0x03-debugging</li>
+    <li>0x04-more_functions_nested_loops</li>
+    <li>0x05-pointers_arrays_strings</li>
+    <li>README.md</li>
+  </ul>
 
   <a href="https://github.com/Mugambi12"><strong>➥ Live Demo / My Profile</strong></a>
 
