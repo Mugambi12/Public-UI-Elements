@@ -66,10 +66,10 @@ git clone https://github.com/Mugambi12/Public-Project-Materials.git
   #### Contact
 
   To contact me, you can reach me out at,<br/><br/>
-
+  
   <div align="center">
-    <a href="https://www.twitter.com/mugambimungiria">Twitter</a>. &nbsp; &nbsp; &nbsp;
-    <a href="https://www.linkedin.com/in/silasmugambi">LinkedIn</a>
+    [Twitter](https://www.twitter.com/mugambimungiria). &nbsp; &nbsp; &nbsp;
+    [LinkedIn](https://www.linkedin.com/in/silasmugambi)
   </div>
 
   #### License
