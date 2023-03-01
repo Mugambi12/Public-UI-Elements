@@ -6,6 +6,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/Mugambi12/Public-Project-Materials) &nbsp; &nbsp;
   [![Visit my website](https://img.shields.io/badge/Visit%20my%20website-Here-brightgreen)](https://silasmugambi.pages.dev) &nbsp; &nbsp;
   [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/silasmugambi/) &nbsp; &nbsp;
+  [![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/intent/follow?screen_name=mugambimungiria)
   [![Twitter Follow](https://img.shields.io/twitter/follow/MugambiMungiria?style=social)](https://twitter.com/intent/follow?screen_name=mugambimungiria) &nbsp; &nbsp;
   [![GitHub Profile](https://img.shields.io/github/followers/Mugambi12?style=social)](https://github.com/Mugambi12) &nbsp; &nbsp;
   [![GitHub stars](https://img.shields.io/github/stars/Mugambi12/Public-Project-Materials?style=social)](https://github.com/Mugambi12/Public-Project-Materials) &nbsp; &nbsp;
