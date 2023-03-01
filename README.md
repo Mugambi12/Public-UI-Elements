@@ -7,8 +7,9 @@
   [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/silasmugambi/) &nbsp; &nbsp;
   [![Twitter Follow](https://img.shields.io/twitter/follow/MugambiMungiria?style=social)](https://twitter.com/intent/follow?screen_name=mugambimungiria) &nbsp; &nbsp;
   [![YouTube Video Views](https://img.shields.io/youtube/views/5Bl3CCizSRQ?style=social)](https://#) &nbsp; &nbsp;
+  [![Visit my website](https://img.shields.io/badge/Visit%20my%20website-Here-brightgreen)](https://silasmugambi.pages.dev) &nbsp; &nbsp;
   [![GitHub Profile](https://img.shields.io/github/followers/Mugambi12?style=social)](https://github.com/Mugambi12) &nbsp; &nbsp;
-  ![GitHub stars](https://img.shields.io/github/stars/Mugambi12/adex?style=social) &nbsp; &nbsp;
+  ![GitHub stars](https://img.shields.io/github/stars/Mugambi12/Public-Project-Materials?style=social) &nbsp; &nbsp;
   [![GitHub stars](https://img.shields.io/github/stars/Mugambi12/adex.svg?style=social&label=Stars)](https://github.com/Mugambi12/Public-Project-Materials)
   ![GitHub forks](https://img.shields.io/github/forks/Mugambi12/adex?style=social) &nbsp; &nbsp;
 
