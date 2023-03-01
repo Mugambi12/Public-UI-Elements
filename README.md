@@ -24,12 +24,13 @@
 
 <br />
 
-  <h2 align="center">Demo Screeshots</h2>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <h2 align="center">Demo Screenshots</h2>
 
-  ![Admin Dashboard Desktop Demo](./README-Images/AdminDashboard.png "Desktop Demo")
-  ![Login Page Desktop Demo](./README-Images/LoginPage.png "Desktop Demo")
-  ![ReadMore Desktop Demo](./README-Images/ReadMore.png "Desktop Demo")
-
+  <img src="./README-Images/AdminDashboard.png" alt="Admin Dashboard Desktop Demo" title="Desktop Demo" width="250px">
+  <img src="./README-Images/LoginPage.png" alt="Login Page Desktop Demo" title="Desktop Demo" width="250px">
+  <img src="./README-Images/ReadMore.png" alt="ReadMore Desktop Demo" title="Desktop Demo" width="250px">
+</div>
 
 <h2 align="center">Prerequisites</h2>
 
