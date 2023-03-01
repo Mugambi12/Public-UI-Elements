@@ -15,7 +15,7 @@
 
   <h2 align="center">Public Project Materials</h2>
 
-  <p text-align="justify">These projects are freely available for use in building website.<br />Responsive for all devices, build using HTML, CSS, and JavaScript.</p>
+  <p text-align="justify">These projects are freely available for use in building website. Responsive for all devices, build using HTML, CSS, and JavaScript.</p>
 
   <a href="https://github.com/Mugambi12"><strong>➥ Live Demo / My Profile</strong></a>
 
