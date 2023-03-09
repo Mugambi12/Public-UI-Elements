@@ -50,12 +50,8 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@mugambi12](https://www.github.com/mugambi12)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
