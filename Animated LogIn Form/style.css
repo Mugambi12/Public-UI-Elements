@@ -1,115 +1,112 @@
 @import url('https://fonts.googleapis.com/css2?family=Font+Name&display=swap');
 
 *{
-  margin: 0;  
-  padding: 0; font-family: 'poppins', sans-serif;
+ margin: 0;
+ padding: 0; font-family: 'poppins', sans-serif;
 }
 section{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  width: 100%;
-  background: url(imgs/800px-Maasai_mara_evening_caption_of_wildlife_with_the_beautiful_sunset_scene.jpg)no-repeat;
-  background-position: center;
-  background-size: cover;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh;
+ width: 100%;
+ background: url(imgs/bg_4.jpg)no-repeat;
+ background-position: center;
+ background-size: cover;
 }
 .form-box{
-  position: relative;
-  width: 400px;
-  height: 450px;
-  background: transparent;
-  border: 2px solid rgba(255, 255, 255, .5);
-  border-radius: 20px;
-  backdrop-filter: blur(10px);
-  display: flex;
-  justify-content: center;  
-  align-items: center;
+ position: relative;
+ width: 400px;
+ height: 450px;
+ background: transparent;
+ border: 2px solid rgba(255, 255, 255, .5);
+ border-radius: 20px;
+ backdrop-filter: blur(10px);
+ display: flex;
+ justify-content: center;
+ align-items: center;
 }
 h2{
-  font-size: 2em;
-  color: #000;
-  text-align: center;
+ font-size: 2em;
+ color: #000;
+ text-align: center;
 }
 .inputbox{
-  position: relative;
-  margin: 30px 0;
-  width: 310px;
-  border-bottom: 2px solid #999;
+ position: relative;
+ margin: 30px 0;
+ width: 310px;
+ border-bottom: 2px solid #999;
 }
 .inputbox label {
-  position: absolute;
-  top: 50%;
-  left: 5px;
-  transform: translateY(-50%);
-  color: #222;
-  font-size: 1em;
-  pointer-events: none;
-  transition: .5s;
+ position: absolute;
+ top: 50%;
+ left: 5px;
+ transform: translateY(-50%);
+ color: #222;
+ font-size: 1em;
+ pointer-events: none;
+ transition: .5s;
 }
 input:focus ~ label,
 input:valid ~ label{
-  top: -5px;
+ top: -5px;
 }
 .inputbox input {
-  width: 100%;
-  height: 50px;
-  background: transparent;
-  border: none;
-  outline: none;
-  font-size: 1em;
-  padding:0 35px 0 5px;
-  color: #222;
+ width: 100%;
+ height: 50px;
+ background: transparent;
+ border: none;
+ outline: none;
+ font-size: 1em;
+ padding:0 35px 0 5px;
+ color: #222;
 }
 .inputbox ion-icon{
-  position: absolute;
-  right: 8px;
-  color: #111;
-  font-size: 1.2em;
-  top: 20px;
+ position: absolute;
+ right: 8px;
+ color: #000;
+ font-size: 1.0em;
+ top: 20px;
 }
-.forget {  
-  margin: -15px 0 15px;
-  font-size: .9em;
-  color: #777;
-  display: flex;
-  justify-content: center;
+.forget {
+ margin: -15px 0 15px;
+ font-size: .9em;
+ color: #6c757d;
+ display: flex;
+ justify-content: center;
 }
-.forget label input{  
-  margin-right: 3px;
+.forget label input{
+ margin-right: 3px;
 }
 .forget label a{
-
-  color: #333;
-  
-  text-decoration: none;
-  
-  }
-.forget label a:hover{
-  text-decoration: underline;  
+ color: #0A2C47;
+ text-decoration: none;
 }
-button{
-  width: 100%;
-  height: 40px;
-  border-radius: 40px;
-  background: #7e7e7e;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  font-size: 1em;
-  font-weight: 600;  
+.forget label a:hover{
+ text-decoration: underline;
+}
+.form-value button{
+ width: 100%;
+ height: 40px;
+ border-radius: 40px;
+ background: #476491;
+ border: none;
+ outline: none;
+ cursor: pointer;
+ font-size: 1em;
+ font-weight: 600;
 }
 .register{
-  font-size: .9em;
-  color: #777;
-  text-align: center;
-  margin: 25px 0 10px;
+ font-size: .9em;
+ color: #6c757d;
+ text-align: center;
+ margin: 25px 0 10px;
 }
 .register p a {
-  text-decoration: none;
-  color: #333;
-  font-weight: 600;
+ text-decoration: none;
+ color: #000;
+ font-weight: 600;
 }
 .register p a:hover{
-  text-decoration: underline;
+ text-decoration: underline;
 }
