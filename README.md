@@ -6,15 +6,13 @@
   <p align="left">These projects are freely available for use in building a website. Responsive for all devices, built using HTML, CSS, and JavaScript.</p>
 
   <h3 align="center">Topics</h3>
-    
+
   <ul align="left">
     <li><a href="Admin Dashboard Modern/index.html">Admin Dashboard Modern</a></li>
-    <li><a href="#animated-login-form">Animated LogIn Form</a></li>
-    <li><a href="#animated-readmore-button">Animated ReadMore Button</a></li>
-    <li><a href="#dark-animated-login-register-form">Dark Animated LogIn & Register Form</a></li>
-    <li><a href="#light-animated-login-register-form">Light Animated LogIn & Register Form</a></li>
-    <li><a href="#readme-images">README-Images</a></li>
-    <li><a href="#readme-md">README.md</a></li>
+    <li><a href="Animated LogIn Form/index.html">Animated LogIn Form</a></li>
+    <li><a href="Animated ReadMore Button/index.html">Animated ReadMore Button</a></li>
+    <li><a href="Dark Animated LogIn & Register Form/index.html">Dark Animated LogIn & Register Form</a></li>
+    <li><a href="Light Animated LogIn & Register Form/index.html">Light Animated LogIn & Register Form</a></li>
   </ul>
 
 
