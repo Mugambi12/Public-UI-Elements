@@ -21,7 +21,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; align-items: center; flex-wrap: wrap;">
-  <h2 align="center">Demo Screenshots</h2>
+  <h2 align="center">Sample Demo Screenshots</h2>
 
   <img src="./README-Images/AdminDashboard.png" alt="Admin Dashboard Desktop Demo" title="Desktop Demo" width="250px">
   <img src="./README-Images/LoginPage.png" alt="Login Page Desktop Demo" title="Desktop Demo" width="250px">
