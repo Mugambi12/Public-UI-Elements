@@ -8,14 +8,15 @@
   <h3 align="center">Topics</h3>
     
   <ul align="left">
-    <li>Admin Dashboard Modern</li>
-    <li>Animated LogIn Form</li>
-    <li>Animated ReadMore Button</li>
-    <li>Dark Animated LogIn & Register Form</li>
-    <li>Light Animated LogIn & Register Form</li>
-    <li>README-Images</li>
-    <li>README.md</li>
+    <li><a href="Admin Dashboard Modern/index.html">Admin Dashboard Modern</a></li>
+    <li><a href="#animated-login-form">Animated LogIn Form</a></li>
+    <li><a href="#animated-readmore-button">Animated ReadMore Button</a></li>
+    <li><a href="#dark-animated-login-register-form">Dark Animated LogIn & Register Form</a></li>
+    <li><a href="#light-animated-login-register-form">Light Animated LogIn & Register Form</a></li>
+    <li><a href="#readme-images">README-Images</a></li>
+    <li><a href="#readme-md">README.md</a></li>
   </ul>
+
 
   <a href="https://mugambi12.github.io/Public-UI-Elements"><strong>➥ Live Demo / My Portfolio Projects</strong></a>
 
