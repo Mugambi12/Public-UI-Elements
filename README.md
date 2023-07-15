@@ -1,6 +1,3 @@
-Here's the updated README.md file with "Public Project Materials" changed to "Public-UI-Elements":
-
-```markdown
 <h1 align="center">Public-UI-Elements</h1> <br/>
 <h2 align="center">Connect with me</h2>
 
@@ -69,8 +66,3 @@ git clone https://github.com/Mugambi12/Public-UI-Elements.git
 #### License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-```
-
-Changes made:
-
-- Updated the title "Public Project Materials" to "Public-UI-Elements" in the headings, badges, and descriptions throughout the README.md file.
