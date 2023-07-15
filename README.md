@@ -29,13 +29,13 @@
   <img src="./README-Images/ReadMore.png" alt="ReadMore Desktop Demo" title="Desktop Demo" width="250px">
 </div>
 
-<h2 align="center">Prerequisites</h2>
+<h2 align="left">Prerequisites</h2>
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-<h2 align="center">Run Locally</h2>
+<h2 align="left">Run Locally</h2>
 
 To run **these elements** locally, run this command on your git bash:
 
