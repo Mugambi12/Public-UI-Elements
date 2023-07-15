@@ -1,11 +1,11 @@
 <h1 align="center">Public-UI-Elements</h1>
 
 <div align="center">
-  <h2 align="left">Project Details and Links</h2>
+  <h2 align="center">Project Details and Links</h2>
 
   <p align="left">These projects are freely available for use in building a website. Responsive for all devices, built using HTML, CSS, and JavaScript.</p>
 
-  <h3 align="left">Topics</h3>
+  <h3 align="center">Topics</h3>
     
   <ul align="left">
     <li>Admin Dashboard Modern</li>
@@ -29,13 +29,13 @@
   <img src="./README-Images/ReadMore.png" alt="ReadMore Desktop Demo" title="Desktop Demo" width="250px">
 </div>
 
-<h2 align="left">Prerequisites</h2>
+<h2 align="center">Prerequisites</h2>
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-<h2 align="left">Run Locally</h2>
+<h2 align="center">Run Locally</h2>
 
 To run **these elements** locally, run this command on your git bash:
 
