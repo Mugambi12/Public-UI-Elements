@@ -2,17 +2,6 @@
 <h2 align="center">Connect with me</h2>
 
 <div align="center">
-
-[![GitHub repo size](https://img.shields.io/github/repo-size/Mugambi12/Public-UI-Elements)](https://github.com/Mugambi12/Public-UI-Elements) &nbsp;
-<a href="https://silasmugambi.pages.dev"><img src="https://img.shields.io/badge/Visit%20my%20website-Here-lightblue" alt="Visit my website"></a> &nbsp;
-<a href="https://twitter.com/intent/follow?screen_name=mugambimungiria"><img src="https://img.shields.io/twitter/follow/Twitter?style=social" alt="Twitter Follow"></a> &nbsp;
-<a href="https://www.linkedin.com/in/silasmugambi/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue" alt="LinkedIn Follow"></a> &nbsp;
-<a href="https://github.com/Mugambi12"><img src="https://img.shields.io/github/followers/Mugambi12?style=social" alt="GitHub Profile"></a> &nbsp;
-<a href="https://github.com/Mugambi12/Public-UI-Elements"><img src="https://img.shields.io/github/stars/Mugambi12/Public-UI-Elements?style=social" alt="GitHub stars"></a> &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/Mugambi12/Public-UI-Elements?style=social)
-
-  <br/>
-
   <h2 align="center">Public-UI-Elements</h2>
 
   <p text-align="justify">These projects are freely available for use in building a website. Responsive for all devices, built using HTML, CSS, and JavaScript.</p>
