@@ -17,7 +17,7 @@
     <li>README.md</li>
   </ul>
 
-  <a href="[https://github.com/Mugambi12](https://mugambi12.github.io/Public-UI-Elements/)"><strong>➥ Live Demo / My Profile</strong></a>
+  <a href="https://mugambi12.github.io/Public-UI-Elements"><strong>➥ Live Demo / My Portfolio Projects</strong></a>
 
 </div>
 
