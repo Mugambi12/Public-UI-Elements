@@ -1,7 +1,7 @@
 <h1 align="center">Public-UI-Elements</h1>
 
 <div align="center">
-  <h2 align="center">Project Details and Links</h2>
+  <h3 align="center">Project Details and Links</h3>
 
   <p align="left">These projects are freely available for use in building a website. Responsive for all devices, built using HTML, CSS, and JavaScript.</p>
 
