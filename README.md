@@ -3,13 +3,13 @@
 
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Mugambi12/Public-UI-Elements) &nbsp;
-  [![Visit my website](https://img.shields.io/badge/Visit%20my%20website-Here-lightblue)](https://silasmugambi.pages.dev) &nbsp;
-  [![Twitter Follow](https://img.shields.io/twitter/follow/Twitter?style=social)](https://twitter.com/intent/follow?screen_name=mugambimungiria) &nbsp;
-  [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/silasmugambi/) &nbsp;
-  [![GitHub Profile](https://img.shields.io/github/followers/Mugambi12?style=social)](https://github.com/Mugambi12) &nbsp;
-  [![GitHub stars](https://img.shields.io/github/stars/Mugambi12/Public-UI-Elements?style=social)](https://github.com/Mugambi12/Public-UI-Elements) &nbsp;
-  ![GitHub forks](https://img.shields.io/github/forks/Mugambi12/Public-UI-Elements?style=social)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Mugambi12/Public-UI-Elements)](https://github.com/Mugambi12/Public-UI-Elements) &nbsp;
+<a href="https://silasmugambi.pages.dev"><img src="https://img.shields.io/badge/Visit%20my%20website-Here-lightblue" alt="Visit my website"></a> &nbsp;
+<a href="https://twitter.com/intent/follow?screen_name=mugambimungiria"><img src="https://img.shields.io/twitter/follow/Twitter?style=social" alt="Twitter Follow"></a> &nbsp;
+<a href="https://www.linkedin.com/in/silasmugambi/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue" alt="LinkedIn Follow"></a> &nbsp;
+<a href="https://github.com/Mugambi12"><img src="https://img.shields.io/github/followers/Mugambi12?style=social" alt="GitHub Profile"></a> &nbsp;
+<a href="https://github.com/Mugambi12/Public-UI-Elements"><img src="https://img.shields.io/github/stars/Mugambi12/Public-UI-Elements?style=social" alt="GitHub stars"></a> &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/Mugambi12/Public-UI-Elements?style=social)
 
   <br/>
 
